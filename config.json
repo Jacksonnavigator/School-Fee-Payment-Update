@@ -1,0 +1,18 @@
+{
+    "fee_structure": {
+        "Form 1": 1250000,
+        "Form 2": 1350000,
+        "Form 3": 1450000,
+        "Form 4": 1500000
+    },
+    "email": {
+        "sender": "jacksonnavigator7@gmail.com",
+        "password": "ppvz jrzs mrne cfia"
+    },
+    "twilio": {
+        "sid": "AC2c07054cc0abb1c55ffb38efdf328eae",
+        "token": "1434ca04447ba8e0807b5b9e85a7feb8",
+        "phone": "+15055603828"
+    },
+    "encryption_key": "UeR3JHhTN5RPSjrI_DuZ-ZJaJbhiAAbdCTnj2QjlB1s="
+}
